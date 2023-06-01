@@ -139,14 +139,13 @@ footer i {
 .icon1 {
     flex-direction: row;
     font-size: 1em;
-    
     padding: .2em;
 }
 
 .icon1 p {
     flex-direction: row;
     font-size: .5em;
-    
+    text-align: center;
 }
 
 .icon2 {
@@ -158,7 +157,7 @@ footer i {
 .icon2 p {
     flex-direction: row;
     font-size: .5em;
-    
+    text-align: center;
 }
 
 .icon3 {
@@ -170,7 +169,7 @@ footer i {
 .icon3 p {
     flex-direction: row;
     font-size: .5em;
-    
+    text-align: center;
 }
 
 .icon4 {
@@ -182,7 +181,7 @@ footer i {
 .icon4 p {
     flex-direction: row;
     font-size: .5em;
-    
+    text-align: center;
 }
 
 .icon5 {
@@ -194,7 +193,7 @@ footer i {
 .icon5 p {
     flex-direction: row;
     font-size: .5em;
-    
+    text-align: center;
 }
 
 .icon6 {
@@ -206,7 +205,7 @@ footer i {
 .icon6 p {
     flex-direction: row;
     font-size: .5em;
-    
+    text-align: center;
 }
 
 .icon7 {
@@ -218,7 +217,7 @@ footer i {
 .icon7 p {
     flex-direction: row;
     font-size: .5em;
-    
+    text-align: center;
 }
 
 .icon8 {
@@ -230,7 +229,7 @@ footer i {
 .icon8 p {
     flex-direction: row;
     font-size: .5em;
-    
+    text-align: center;
 }
 
 .icon9 {
@@ -242,6 +241,7 @@ footer i {
 .icon9 p {
     flex-direction: row;
     font-size: .5em;
+    text-align: center;
 }
 
 .icon10 {
@@ -253,7 +253,7 @@ footer i {
 .icon10 p {
     flex-direction: row;
     font-size: .5em;
-    
+    text-align: center;
 }
 
 
