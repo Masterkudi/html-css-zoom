@@ -12,14 +12,8 @@ body {
     flex-direction: column;
 }
 
-header {
-    position: fixed;
-    z-index: 1;
-    width: 100%;
-}
-
 nav {
-    background-color: #000000;
+    background-color: #232323;
     display: flex;
     justify-content: flex-end;
 }
@@ -102,7 +96,7 @@ main {
 }
 
 .user-tag:hover {
-    color: #ff0000;
+    color: rgba(255, 0, 0, .7);
 }
 
 /* FOOTER */
@@ -156,8 +150,11 @@ footer i {
     text-align: center;
 }
 
-
 .icon i:hover {
+    color: #4BC824;
+}
+
+.angle-up i:hover {
     color: #4BC824;
 }
 
